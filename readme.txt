@@ -4,3 +4,4 @@ Creating a new branch is quick AND simple.
 only
 Test stash ..
 ha
+哈哈哈
