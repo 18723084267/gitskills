@@ -2,3 +2,4 @@ dev brach readme.txt
 Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 ha
+哈哈哈
